@@ -7,6 +7,6 @@ Thambura is a Wideband Spectrum Lora Scanner/Decoder/Replayer. It scans for lora
 
 ## Resources
 
-https://lora-developers.semtech.com/build/tools/calculator/
-https://github.com/jkadbear/LoRaPHY
-https://github.com/sandeepmistry/arduino-LoRa/blob/master/API.md
+- https://lora-developers.semtech.com/build/tools/calculator/
+- https://github.com/jkadbear/LoRaPHY
+- https://github.com/sandeepmistry/arduino-LoRa/blob/master/API.md
