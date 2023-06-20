@@ -1,4 +1,4 @@
-<img src="docs/images/logo.png" width="48%" alt="logo" border="0">
+<img src="https://github.com/thesunRider/thambura/blob/910bab1b45d04301d5ff0ddb7dcc6589d95c1528/docs/images/logo.png" width="48%" alt="logo" border="0">
 
 # thambura
 Terrestrial High-Altitude MultiBand Utility Radio Analyser
