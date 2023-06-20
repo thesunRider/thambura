@@ -1,4 +1,4 @@
-<img src="docs/images/logo.png" width="48%">
+<img src="https://i.ibb.co/2khFmXS/logo.png " width="50%" height="50%">
 
 # thambura
 Terrestrial High-Altitude MultiBand Utility Radio Analyser
@@ -7,6 +7,6 @@ Thambura is a Wideband Spectrum Lora Scanner/Decoder/Replayer. It scans for lora
 
 ## Resources
 
-https://lora-developers.semtech.com/build/tools/calculator/
-https://github.com/jkadbear/LoRaPHY
-https://github.com/sandeepmistry/arduino-LoRa/blob/master/API.md
+- https://lora-developers.semtech.com/build/tools/calculator/
+- https://github.com/jkadbear/LoRaPHY (MATLAB LIBRARY WHICH WAS TRANSLATED TO PYTHON)
+- https://github.com/sandeepmistry/arduino-LoRa/blob/master/API.md
