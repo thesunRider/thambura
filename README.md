@@ -1,4 +1,5 @@
-<img src="https://i.ibb.co/2khFmXS/logo.png" width="48%">
+<img src="docs/images/logo.png" width="48%" alt="logo" border="0">
+
 # thambura
 Terrestrial High-Altitude MultiBand Utility Radio Analyser
 
